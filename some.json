@@ -1,0 +1,12 @@
+[
+      {
+        id: 123,
+        message: "New Promtion is running",
+        description: "promo code is :Test123"
+      },
+      {
+        id: 1453,
+        message: "Iphone x is coming",
+        description: "Exciting new launch discounts"
+      }
+    ];
